@@ -13,7 +13,7 @@ Teste Backend PortLouis
 ## Execução
 
 ```sh
-  npm run start
+  npm run dev
 ```
 
 Os arquivos serão gerados na pasta PedidosPendentes
